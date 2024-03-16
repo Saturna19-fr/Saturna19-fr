@@ -1,7 +1,6 @@
 # 💫 About Me:
 📔 • Learning Python<br>📒 • UX Designer<br>🔗 • Luau, Python<br>
 # 📶 Social Medias:
-![Discord](https://img.shields.io/discord/1195724550994927706?style=for-the-badge&logo=discord&labelColor=%2300000&color=%237289DA&cacheSeconds=3&link=https%3A%2F%2Fdiscord.gg%2FTakyHYyd)
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/795745320629567489)](https://discord.com/users/795745320629567489)
