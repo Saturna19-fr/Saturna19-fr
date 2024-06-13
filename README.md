@@ -1,5 +1,5 @@
 # 💫 About Me:
-📔 • Learning Python<br>📒 • UX Designer<br>🔗 • Luau, Python<br>
+📔 • Learning JavaScript (Node.js) & TypeScript<br>📒 • UX Designer<br>🔗 • Luau, Python<br>
 # 📶 Social Medias:
 
 
