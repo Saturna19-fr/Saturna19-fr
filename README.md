@@ -1,5 +1,10 @@
+<div id="intro" align="center">
+  <img src="src/welcomegithub_.png">
+  
+</div>
+
 # 💫 About Me:
-📔 • Learning JavaScript (Node.js) & TypeScript<br>📒 • UX Designer<br>🔗 • Luau, Python<br>
+📔 • Learning JavaScript (Node.js) & TypeScript<br>📒 • UX Designer<br>🔗 • Lua, Python<br>
 # 📶 Social Medias:
 
 
