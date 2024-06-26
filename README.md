@@ -1,6 +1,5 @@
 <div id="intro" align="center">
-  <img src="src/welcomegithub_.png">
-  
+  <img src="src/welcomegithub_v2.png">
 </div>
 
 # 💫 About Me:
