@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-📔 • Learning JavaScript (Node.js) & TypeScript<br>📒 • UX Designer<br>🔗 • Lua, Python<br>
+📔 • Learning JavaScript (Node.js), TypeScript & C<br>📒 • UX Designer<br>🔗 • Lua, Python<br>
 # 📶 Social Medias:
 
 
