@@ -8,7 +8,7 @@
 
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/795745320629567489)](https://discord.com/users/795745320629567489)
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rw9mjd2magiws3m3jt7y56agj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 # 💻 Tech Stack:
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -22,5 +22,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saturna19-fr&icon=0&color=0)](https://visitcount.itsvg.in)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rw9mjd2magiws3m3jt7y56agj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 **I HATE JAVASCRIPT**
