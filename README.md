@@ -23,5 +23,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Saturna19-fr&icon=0&color=0)](https://visitcount.itsvg.in)
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rw9mjd2magiws3m3jt7y56agj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
-
-**I HATE JAVASCRIPT**
