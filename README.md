@@ -4,11 +4,6 @@
 
 # 💫 About Me:
 📔 • Learning JavaScript (Node.js), TypeScript & C<br>📒 • UX Designer<br>🔗 • Lua, Python<br>
-# 📶 Social Medias:
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/795745320629567489)](https://discord.com/users/795745320629567489) [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=rw9mjd2magiws3m3jt7y56agj&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/Saturna19-fr)
-
 
 
 # 💻 Tech Stack:
@@ -18,8 +13,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Saturna19-fr&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Saturna19-fr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saturna19-fr&icon=0&color=0)](https://visitcount.itsvg.in)
